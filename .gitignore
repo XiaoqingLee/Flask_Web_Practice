@@ -1,0 +1,16 @@
+# 不显示
+
+*.sqlite
+mail_password.txt
+tree.txt
+.idea
+app/auth/__pycache__
+app/main/__pycache__
+app/__pycache__
+migrations
+tests/__pycache__
+__pycache__
+
+
+# 显示
+
